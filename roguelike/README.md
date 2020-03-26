@@ -1,0 +1,2 @@
+Game
+roguelike game type

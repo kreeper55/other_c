@@ -1,0 +1,4 @@
+vsync=true
+fullscreen=false
+volume=false
+isEnglish=true
