@@ -1,0 +1,6 @@
+if(message == ("text into kavichki")){
+    int count = 0; 
+} //        comment it is     
+else {
+    char symb = 'a'; 
+}
